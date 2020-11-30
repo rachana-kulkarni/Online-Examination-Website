@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/project/web/index.jsp</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/project/src/java/com/helper/JdbcConnectivity.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/project/src/java/com/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/project/src/java/com/dao/UserDao.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/project/src/java/com/entities/User.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/project/web/newhtml.html</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/project/web/login_page.jsp</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/project/src/java/com/helper/ConnectionProvider.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/project/web/register_jsp.jsp</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/project/src/java/com/servlets/RegisterServlet.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/project/web/index.html</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/project/web/normal_navbar.jsp</file>
+        </group>
+    </open-files>
+</project-private>
